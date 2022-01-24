@@ -1,0 +1,27 @@
+h1{
+color: #ff0000;  
+}
+h3{
+   font-style: italic; 
+   color: #ee3030;
+}
+ul
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    color:  brown;
+}
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    color:brown;
+}
+p{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: rgb(146, 25, 25);
+    text-decoration: none;
+    background-color:#e4e429ef ;
+    font-style: italic;
+}
